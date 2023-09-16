@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.xuecheng.manage_cms.controller.CmsPageControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.247 s <<< FAILURE! - in com.xuecheng.manage_cms.controller.CmsPageControllerTest
+initializationError(com.xuecheng.manage_cms.controller.CmsPageControllerTest)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
